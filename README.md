@@ -26,6 +26,7 @@ This project automates key workflows in the OrangeHRM demo application using Sel
 ## 🗂️ Project Structure
 
 OrangeHRM_Automation/
+
 ├── driver_setup.py # Browser setup
 ├── login.py # Login functionality
 ├── add_employee.py # Add employee
@@ -33,10 +34,7 @@ OrangeHRM_Automation/
 ├── logout.py # Logout
 ├── main.py # Run all tests
 └── README.md # Project guide
-
-
 ---
-
 ## 🔧 Setup Instructions
 
 1. ✅ Install Python  
@@ -45,7 +43,6 @@ OrangeHRM_Automation/
    pip install selenium
 ✅ Download ChromeDriver
 Match your browser version from: https://chromedriver.chromium.org/downloads
-
 Place chromedriver.exe inside your project or add it to system PATH
 
 ▶️ How to Run
