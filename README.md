@@ -17,7 +17,7 @@ This project automates key workflows in the OrangeHRM demo application using Sel
 
 ## 🧰 Technologies Used
 
-- Python 3.x
+- Python
 - Selenium WebDriver
 - PyCharm IDE
 
